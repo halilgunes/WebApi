@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiMongoDb", "WebApiMongoDb\WebApiMongoDb.csproj", "{EAE95461-0F29-4A83-A1AB-4DF10B8453FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAE95461-0F29-4A83-A1AB-4DF10B8453FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE95461-0F29-4A83-A1AB-4DF10B8453FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE95461-0F29-4A83-A1AB-4DF10B8453FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE95461-0F29-4A83-A1AB-4DF10B8453FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9679673-398D-48CA-A70D-6A428255D8EC}
+	EndGlobalSection
+EndGlobal
